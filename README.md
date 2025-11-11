@@ -8,3 +8,14 @@
 - 📷 **Image-Based Shelf Scanning** – Upload shelf images to automatically detect missing items.  
 - 🔄 **Modular Design** – Combines dynamic stock prediction and visual analysis in one app.  
 - ⚡ **Real-Time Insights** – Detect anomalies, track stock levels, and visualize performance instantly.  
+
+## 🧠 Tech Stack
+
+* **Language:** Python 3.10+
+* **Frontend:** Streamlit (interactive web app)
+* **ML & Forecasting:** Scikit-learn, NumPy, Pandas
+* **Computer Vision:** OpenCV, Ultralytics YOLOv8
+* **Visualization:** Matplotlib, Seaborn, Plotly
+* **Environment:** Virtualenv / Conda
+
+---
